@@ -45,12 +45,4 @@ This project helped me strengthen my understanding of:
 - Modular project structure
 - Input validation and transaction logic
 
-## Future Improvements
 
-- SQLite/MySQL database integration
-- User authentication
-- Transaction history
-- Password hashing
-- Email notifications
-- Admin dashboard
-- Charts and analytics
